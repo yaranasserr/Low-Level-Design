@@ -40,3 +40,7 @@ class TestTicTacToe(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+# time complexity is O(1) for move function
+# space complexity is O(n) where n is the size of the board
